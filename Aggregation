@@ -707,6 +707,8 @@
 19.categorize users by their favorite fruit?
 20.how many users have 'ad' as the second tag in their list of tags? (arrayname.index to get the value => (tags.1))
 21.find users have both 'id' and 'enim' as their tags (use $match, $all)
+22.interchange the values of gender, male to female and female to male.
+
 
 
 
